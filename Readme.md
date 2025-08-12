@@ -7,7 +7,7 @@
 ## About
 
 <p style="font-size:16px;">
-I into problem-solving, AI-ML, GenAI and MERN stack development.
+I'm into problem-solving, AI-ML, GenAI and MERN stack development.
 </p>
 
 ## My Progress
