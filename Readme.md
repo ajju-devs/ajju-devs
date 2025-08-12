@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=I'm+Ajay;Builiding+scalable+web+and+AI+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=600&lines=I'm+Ajay;Building+scalable+web+and+AI+applications)](https://git.io/typing-svg)
 
 <!-- <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ajju-devs.ajju-devs&rstyle=plastic&left_text=Profile%20Views%20:"  />
