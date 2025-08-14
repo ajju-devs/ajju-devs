@@ -13,7 +13,7 @@ I'm into problem-solving, AI-ML, GenAI and MERN stack development.
 ## My Progress
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajju-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajju-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph" />
   
 </div>
 <br><br>
