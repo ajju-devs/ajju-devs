@@ -7,7 +7,7 @@
 ## About
 
 <p style="font-size:16px;">
-I'm into problem-solving, AI-ML, GenAI and MERN stack development.
+I'm into problem-solving, software development, Generative AI, RAG Systems, Autonomous Agents, and Applied AI-ML.
 </p>
 
 
